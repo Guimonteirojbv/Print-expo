@@ -1,5 +1,13 @@
 # Project Title: Printing Functionality with Expo Print
 
+<table>
+  <tr>
+    <td><img src="./imagesApp/appimage.jpeg" alt="Descrição da imagem 1" /></td>
+    <td><img src="./imagesApp/modalimage.jpeg" alt="Descrição da imagem 2" /></td>
+    <td><img src="./imagesApp/printimage.jpeg" alt="Descrição da imagem 2" /></td>
+  </tr>
+</table>
+
 ## Overview
 This project aims to implement printing functionality within a mobile application using Expo Print. The application is designed to allow users to print content directly from their mobile devices. To achieve this functionality, the project utilizes Expo Print API along with custom hooks, components, and mock data.
 
@@ -12,7 +20,7 @@ This project aims to implement printing functionality within a mobile applicatio
 ## Technologies Used
 - React Native
 - Expo Print
-- TypeScript (optional)
+- TypeScript
 
 ## Getting Started
 To run the application locally, follow these steps:
