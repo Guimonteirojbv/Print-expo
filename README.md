@@ -13,7 +13,7 @@ This project aims to implement printing functionality within a mobile applicatio
 
 ## Features
 - **Printing Functionality**: Users can print content directly from the mobile application.
-- **Custom Hook**: The application includes a custom hook named `useHook` to manage the necessary functions for printing.
+- **Custom Hook**: The application includes a custom hook named `usePrint` to manage the necessary functions for printing.
 - **Separation of Concerns**: The code is organized using separate components such as `ListItem` and `Button` to improve code readability and maintainability.
 - **Mock Data**: A mock data module is created to simulate an array of objects containing `title`, `html`, and `imageUrl` properties. This mock data is used in the `ListItem` component with a FlatList.
 
